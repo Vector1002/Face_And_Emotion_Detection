@@ -9,7 +9,7 @@ Humans are used to non verbal communication. The emotions expressed increases th
 
 1. Data gathering and  augmentation
 
-   The dataset taken was **"fer2013"**. It can be downloaded through the link "https://github.com/npinto/fer2013". Image augmentation was performed on this data.
+   The dataset taken was **"fer2013"**. Image augmentation was performed on this data.
 
 2. Model building
 
